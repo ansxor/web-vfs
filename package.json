@@ -1,0 +1,16 @@
+{
+  "name": "web-vfs",
+  "version": "0.0.2",
+  "main": "lib/vfs.js",
+  "scripts": {
+    "compile": "npx tsc"
+  },
+  "author": "Ayden Hodgins-de Jonge",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
